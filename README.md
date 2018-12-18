@@ -1,1 +1,3 @@
-# DNA_sequences
+CS 111 - UIC
+
+Project 2
